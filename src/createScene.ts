@@ -1,4 +1,5 @@
 import type { Scene } from "@babylonjs/core/scene";
+import type { Scene } from "@babylonjs/core/scene";
 
 // Change this import to check other scenes
 import { DefaultSceneWithTexture } from "./scenes/defaultWithTexture";
